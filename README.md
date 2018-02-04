@@ -1,5 +1,7 @@
 # Minecraft
 
+WAHAHAHAHA I have forked your code! (As a demo for CHEME 5500).
+
 Simple Minecraft-inspired demo written in Python and Pyglet.
 
 http://www.youtube.com/watch?v=kC3lwK631X8
